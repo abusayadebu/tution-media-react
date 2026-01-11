@@ -6,7 +6,7 @@ const App = () => {
     <div>
       {/* header section here */}
       <Header></Header>
-    
+      
       {/* banner section here */}
       <Banner></Banner>
     </div>
