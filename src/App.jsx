@@ -1,4 +1,5 @@
 import Banner from "./components/banner";
+import Cards from "./components/Cards";
 import Header from "./components/Header";
 
 const App = () => {
@@ -9,6 +10,9 @@ const App = () => {
       
       {/* banner section here */}
       <Banner></Banner>
+      
+      {/* courses-cards Section */}
+      <Cards></Cards>
     </div>
   );
 };
